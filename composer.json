@@ -1,0 +1,23 @@
+{
+    "name": "hossein/migrate2v3",
+    "autoload": {
+        "psr-4": {
+            "Migrate2v3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hossein salehi",
+            "email": "ho.off.acc@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "7.4",
+        "nikic/php-parser": "^5.4"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
